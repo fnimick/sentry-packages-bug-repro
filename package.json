@@ -1,0 +1,14 @@
+{
+  "name": "sentry-packages-bug-repro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "@sentry/sveltekit": "^7.76.0",
+    "@sveltejs/kit": "^1.22.6",
+    "svelte": "^4.2.0"
+  },
+  "type": "module"
+}
